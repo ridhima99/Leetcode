@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ridhima99/Leetcode/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/ridhima99/Leetcode/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ridhima99/Leetcode/tree/master/0076-minimum-window-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ridhima99/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
