@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ridhima99/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ridhima99/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -25,4 +26,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ridhima99/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ridhima99/Leetcode/tree/master/0040-combination-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ridhima99/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
