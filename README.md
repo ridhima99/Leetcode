@@ -32,4 +32,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ridhima99/Leetcode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ridhima99/Leetcode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ridhima99/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ridhima99/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
