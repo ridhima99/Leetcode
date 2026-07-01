@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ridhima99/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ridhima99/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ridhima99/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/ridhima99/Leetcode/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ridhima99/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ridhima99/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/ridhima99/Leetcode/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
