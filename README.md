@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ridhima99/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ridhima99/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ridhima99/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ridhima99/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ridhima99/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ridhima99/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
