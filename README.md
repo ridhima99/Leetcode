@@ -71,22 +71,27 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridhima99/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ridhima99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/ridhima99/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ridhima99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ridhima99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridhima99/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ridhima99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/ridhima99/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/ridhima99/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
