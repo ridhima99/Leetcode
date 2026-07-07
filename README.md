@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/ridhima99/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ridhima99/Leetcode/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridhima99/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0130-surrounded-regions](https://github.com/ridhima99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ridhima99/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ridhima99/Leetcode/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -77,6 +78,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ridhima99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ridhima99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ridhima99/Leetcode/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -85,6 +87,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ridhima99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ridhima99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ridhima99/Leetcode/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -105,6 +108,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ridhima99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ridhima99/Leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ridhima99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -114,6 +118,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ridhima99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ridhima99/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ridhima99/Leetcode/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
