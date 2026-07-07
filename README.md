@@ -77,11 +77,13 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ridhima99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ridhima99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ridhima99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ridhima99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -94,4 +96,12 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/ridhima99/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ridhima99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ridhima99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
