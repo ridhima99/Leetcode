@@ -13,6 +13,7 @@
 | [0130-surrounded-regions](https://github.com/ridhima99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ridhima99/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ridhima99/Leetcode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/ridhima99/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0200-number-of-islands](https://github.com/ridhima99/Leetcode/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0733-flood-fill](https://github.com/ridhima99/Leetcode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/ridhima99/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ridhima99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -92,6 +94,7 @@
 | [0200-number-of-islands](https://github.com/ridhima99/Leetcode/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0733-flood-fill](https://github.com/ridhima99/Leetcode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/ridhima99/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ridhima99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -110,6 +113,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/ridhima99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ridhima99/Leetcode/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/ridhima99/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ridhima99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -121,4 +125,5 @@
 | [0130-surrounded-regions](https://github.com/ridhima99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ridhima99/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ridhima99/Leetcode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/ridhima99/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
