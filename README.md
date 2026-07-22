@@ -28,6 +28,7 @@
 | [0014-longest-common-prefix](https://github.com/ridhima99/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ridhima99/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ridhima99/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0516-longest-palindromic-subsequence](https://github.com/ridhima99/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ridhima99/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0516-longest-palindromic-subsequence](https://github.com/ridhima99/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Tree
 |  |
 | ------- |
