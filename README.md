@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ridhima99/Leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/ridhima99/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ridhima99/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/ridhima99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0516-longest-palindromic-subsequence](https://github.com/ridhima99/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Tree
 |  |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ridhima99/Leetcode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ridhima99/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
