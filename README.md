@@ -14,6 +14,7 @@
 | [0130-surrounded-regions](https://github.com/ridhima99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ridhima99/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ridhima99/Leetcode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/ridhima99/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1254-number-of-closed-islands](https://github.com/ridhima99/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ridhima99/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ridhima99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0516-longest-palindromic-subsequence](https://github.com/ridhima99/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/ridhima99/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Tree
 |  |
 | ------- |
