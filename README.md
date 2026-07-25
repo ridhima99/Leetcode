@@ -54,6 +54,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ridhima99/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/ridhima99/Leetcode/tree/master/0070-climbing-stairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/ridhima99/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ridhima99/Leetcode/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/ridhima99/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
