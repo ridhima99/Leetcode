@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/ridhima99/Leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/ridhima99/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridhima99/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ridhima99/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ridhima99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/ridhima99/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ridhima99/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0733-flood-fill](https://github.com/ridhima99/Leetcode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/ridhima99/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ridhima99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ridhima99/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 | [0733-flood-fill](https://github.com/ridhima99/Leetcode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/ridhima99/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ridhima99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ridhima99/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,6 +121,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ridhima99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/ridhima99/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ridhima99/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ridhima99/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
