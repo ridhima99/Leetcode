@@ -18,6 +18,7 @@
 | [0733-flood-fill](https://github.com/ridhima99/Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/ridhima99/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1254-number-of-closed-islands](https://github.com/ridhima99/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhima99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,5 +158,10 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhima99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhima99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridhima99/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhima99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
