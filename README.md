@@ -19,6 +19,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/ridhima99/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1254-number-of-closed-islands](https://github.com/ridhima99/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhima99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/ridhima99/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0076-minimum-window-substring](https://github.com/ridhima99/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridhima99/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ridhima99/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3731-find-missing-elements](https://github.com/ridhima99/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhima99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridhima99/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridhima99/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/ridhima99/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
